@@ -1,6 +1,3 @@
-# portfolio
-Personal cybersecurity training portfolio with resume
-
 # Personal Cybersecurity Training Portfolio
 
 ## Shabanam Bano Ansari  
